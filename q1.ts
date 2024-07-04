@@ -44,3 +44,6 @@ console.log(buyItem(hero1, shop1));
 console.log(buyItem(hero2, shop2));
 
 module.exports = buyItem;
+
+// รหัส นศ.: 660610771
+// ชื่อ-สกุล : ปฏิพันธ์ เลขนอก

@@ -21,3 +21,6 @@ const students1 = [
 console.log(findTopNames(students1));
 
 module.exports = findTopNames;
+
+// รหัส นศ.: 660610771
+// ชื่อ-สกุล : ปฏิพันธ์ เลขนอก
